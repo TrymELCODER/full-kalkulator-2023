@@ -1,0 +1,21 @@
+body {
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    
+}
+
+/* Responsive Phone/Tablet */
+
+@media (min-witdh: 320px) {}
+@media (min-witdh: 420px) {}
+@media (min-witdh: 475px) {}
+@media (min-witdh: 768px) {}
+@media (min-witdh: 1024px) {}
+@media (min-witdh: 1280px) {}
+@media (min-witdh: 1536px) {}
+
+/* Positioning the elements */
+
+.PositionElements {
+    position: relative;
+}
